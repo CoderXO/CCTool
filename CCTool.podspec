@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'CCTool'
-  s.version      = ‘1.0.0’
+  s.version      = '1.0.0'
   s.summary      = 'A short description of CCTool'
   s.homepage     = 'https://github.com/CoderXO/CCTool'
   s.license      = 'MIT'
